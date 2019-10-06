@@ -1,0 +1,12 @@
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\bin\Debug\Software Tech_ex1.exe.config
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\bin\Debug\Software Tech_ex1.exe
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\bin\Debug\Software Tech_ex1.pdb
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\obj\Debug\Software Tech_ex1.csprojAssemblyReference.cache
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\obj\Debug\Software_Tech_ex1.Form1.resources
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\obj\Debug\Software_Tech_ex1.Properties.Resources.resources
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\obj\Debug\Software Tech_ex1.csproj.GenerateResource.cache
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\obj\Debug\Software Tech_ex1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\obj\Debug\Software Tech_ex1.exe
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\obj\Debug\Software Tech_ex1.pdb
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\obj\Debug\Software_Tech_ex1.Form2.resources
+C:\Users\Ivan Vasilev\source\repos\Software Tech_ex1\Software Tech_ex1\obj\Debug\Software_Tech_ex1.Form3.resources
