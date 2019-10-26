@@ -1,0 +1,9 @@
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex5\SoftTech_Ex5\bin\Debug\SoftTech_Ex5.exe.config
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex5\SoftTech_Ex5\bin\Debug\SoftTech_Ex5.exe
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex5\SoftTech_Ex5\bin\Debug\SoftTech_Ex5.pdb
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex5\SoftTech_Ex5\obj\Debug\SoftTech_Ex5.csprojAssemblyReference.cache
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex5\SoftTech_Ex5\obj\Debug\SoftTech_Ex5.Form1.resources
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex5\SoftTech_Ex5\obj\Debug\SoftTech_Ex5.Properties.Resources.resources
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex5\SoftTech_Ex5\obj\Debug\SoftTech_Ex5.csproj.GenerateResource.cache
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex5\SoftTech_Ex5\obj\Debug\SoftTech_Ex5.exe
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex5\SoftTech_Ex5\obj\Debug\SoftTech_Ex5.pdb
