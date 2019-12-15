@@ -1,0 +1,15 @@
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\bin\Debug\SoftTech_Ex9.exe.config
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\bin\Debug\SoftTech_Ex9.exe
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\bin\Debug\SoftTech_Ex9.pdb
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.csprojAssemblyReference.cache
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.Form1.resources
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.Properties.Resources.resources
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.csproj.GenerateResource.cache
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.exe
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.pdb
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\bin\Debug\SoftTech_Ex9.2.dll
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\bin\Debug\SoftTech_Ex9.2.pdb
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.Form2.resources
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.csproj.CopyComplete
+C:\Users\Ivan Vasilev\source\repos\SoftTech_EX9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.Form3.resources
+C:\Users\Ivan Vasilev\source\repos\SoftTech_EX9\SoftTech_Ex9\obj\Debug\SoftTech_Ex9.Form4.resources
