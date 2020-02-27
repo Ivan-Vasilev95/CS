@@ -1,0 +1,11 @@
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\bin\Debug\SA_Project.exe.config
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\bin\Debug\SA_Project.exe
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\bin\Debug\SA_Project.pdb
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\obj\Debug\SA_Project.csprojAssemblyReference.cache
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\obj\Debug\SA_Project.Form1.resources
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\obj\Debug\SA_Project.Properties.Resources.resources
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\obj\Debug\SA_Project.csproj.GenerateResource.cache
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\obj\Debug\SA_Project.exe
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\obj\Debug\SA_Project.pdb
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\obj\Debug\SA_Project._3X3.resources
+C:\Users\Ivan Vasilev\source\repos\SA_Project\SA_Project\obj\Debug\SA_Project._3X2.resources
