@@ -1,0 +1,6 @@
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.1\SoftTech_Ex9.1\bin\Debug\SoftTech_Ex9.1.dll
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.1\SoftTech_Ex9.1\bin\Debug\SoftTech_Ex9.1.pdb
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.1\SoftTech_Ex9.1\obj\Debug\SoftTech_Ex9._1.UserControl1.resources
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.1\SoftTech_Ex9.1\obj\Debug\SoftTech_Ex9.1.csproj.GenerateResource.cache
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.1\SoftTech_Ex9.1\obj\Debug\SoftTech_Ex9.1.dll
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.1\SoftTech_Ex9.1\obj\Debug\SoftTech_Ex9.1.pdb

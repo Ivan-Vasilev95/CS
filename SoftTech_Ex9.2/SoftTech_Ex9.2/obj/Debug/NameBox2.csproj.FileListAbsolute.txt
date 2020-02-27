@@ -1,0 +1,7 @@
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.2\SoftTech_Ex9.2\bin\Debug\SoftTech_Ex9.2.dll
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.2\SoftTech_Ex9.2\bin\Debug\SoftTech_Ex9.2.pdb
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.2\SoftTech_Ex9.2\obj\Debug\SoftTech_Ex9._2.NameBox2.resources
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.2\SoftTech_Ex9.2\obj\Debug\NameBox2.csproj.GenerateResource.cache
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.2\SoftTech_Ex9.2\obj\Debug\SoftTech_Ex9.2.dll
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.2\SoftTech_Ex9.2\obj\Debug\SoftTech_Ex9.2.pdb
+C:\Users\Ivan Vasilev\source\repos\SoftTech_Ex9.2\SoftTech_Ex9.2\obj\Debug\NameBox2.csprojAssemblyReference.cache
